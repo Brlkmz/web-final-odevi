@@ -1,0 +1,17 @@
+.sağ{
+    width: 900px;
+    margin: auto;
+    float:left;
+    font-family: cursive;
+    font-size: larger;
+    text-align: center;
+
+}
+.sol{
+    float:left;padding: 0 10px 0 10px;
+
+}
+
+body{
+    background-color: bisque;
+}

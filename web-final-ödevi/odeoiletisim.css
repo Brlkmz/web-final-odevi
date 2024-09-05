@@ -1,0 +1,27 @@
+.sol{
+
+    float: left;padding: 0 10px 0 10px;
+   
+}
+
+.sağ{
+    width: 900px;
+    margin: auto;
+    float: left;
+    padding: 0 20px;
+    margin: 0 20px;
+   
+
+
+}
+h1{
+    text-align: center;
+    color: rgb(44, 40, 40);
+    background: rgb(106, 95, 110);
+    font-family: fantasy;
+
+}
+body{
+    background: rgb(180, 184, 187);
+}
+   
